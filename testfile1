@@ -1,0 +1,10 @@
+adding some test
+to do sum
+static void main(string args[])
+{
+	int n1,n2, res;
+	int n1 = 10;
+	int n2 = 20;
+	res = n1+n2;
+	println("output is"+res);
+}
